@@ -1,19 +1,9 @@
 return {
-	{
-		"EdenEast/nightfox.nvim",
-		config = function()
-			require("nightfox").setup({
-				options = {
-					colorblind = "protan", -- enable protanopia support
-				},
-			})
-		end,
-	},
+	{ "EdenEast/nightfox.nvim" },
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "nordfox",
+			colorscheme = "carbonfox",
 		},
 	},
 }
-
