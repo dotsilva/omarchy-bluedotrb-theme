@@ -11,7 +11,7 @@ An Omarchy theme featuring Ruby language references in backgrounds (blue version
 omarchy-theme-install https://github.com/dotsilva/omarchy-bluedotrb-theme
 ```
 
-# Featuring:
+# Featuring
 
 1 to border size and 1 to gaps in, just the minimal to help differentiate the windows! We want every pixel of the screen;
 
