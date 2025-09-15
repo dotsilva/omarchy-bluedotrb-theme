@@ -3,7 +3,7 @@
 <img width="1921" height="1081" alt="preview" src="https://github.com/user-attachments/assets/cff0af60-ab97-4804-8c27-e329538970f7" />
 
 
-An Omarchy theme featuring Ruby language references in backgrounds (blue version of dotrb).
+An Omarchy theme featuring Ruby language references in backgrounds (blue version of [dotrb](https://github.com/dotsilva/omarchy-dotrb-theme)).
 
 # Install
 
