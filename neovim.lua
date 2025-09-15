@@ -8,7 +8,7 @@ return {
             enable = true,
             severity = {
               protan = 1, -- full protanopia
-              deutan = 0,
+              deutan = 1,
               tritan = 0,
             },
           },
