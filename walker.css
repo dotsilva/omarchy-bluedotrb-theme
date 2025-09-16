@@ -12,7 +12,6 @@
 @define-color background #1a1a1a;
 
 #window {
-  background: transparent;
   border-radius: 4px;
 }
 
@@ -53,7 +52,6 @@
 
 #bar,
 .bar {
-  background: transparent;
   border: none;
   border-radius: 4px;
   padding: 0;
@@ -61,7 +59,6 @@
 
 #scroll,
 .scroll {
-  background: transparent;
   border: none;
   border-radius: 4px;
   padding: 4px 0;
@@ -69,14 +66,12 @@
 
 #list,
 .list {
-  background: transparent;
   border: none;
   border-radius: 4px;
 }
 
 #item,
 .item {
-  background: transparent;
   color: @text;
   border: none;
   border-radius: 4px;
@@ -151,7 +146,6 @@
 }
 
 scrollbar {
-  background: transparent;
   border: none;
   width: 6px;
 }
@@ -168,6 +162,5 @@ scrollbar slider:hover {
 }
 
 scrollbar trough {
-  background: transparent;
   border-radius: 4px;
 }
