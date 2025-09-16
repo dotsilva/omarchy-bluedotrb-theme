@@ -10,3 +10,7 @@
 @define-color border 1a1a1a;
 @define-color foreground #e1e1e1;
 @define-color background #1a1a1a;
+
+#window {
+  border-radius: 4px;
+}
