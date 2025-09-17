@@ -7,10 +7,10 @@
 theme[main_bg]=""
 
 # Main text color
-theme[main_fg]="#DD97FC"
+theme[main_fg]="#be95ff"
 
 # Title color for boxes
-theme[title]="#DD97FC"
+theme[title]="#be95ff"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#9cdfff"
@@ -19,13 +19,13 @@ theme[hi_fg]="#9cdfff"
 theme[selected_bg]="#9cdfff"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#DD97FC"
+theme[selected_fg]="#be95ff"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#1a1a1a"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#DD97FC"
+theme[proc_misc]="#be95ff"
 
 # Cpu box outline color
 theme[cpu_box]="#416AAD"
@@ -48,7 +48,7 @@ theme[temp_mid]="#9cdfff"
 theme[temp_end]="#416AAD"
 
 # CPU graph colors
-theme[cpu_start]="#DD97FC"
+theme[cpu_start]="#be95ff"
 theme[cpu_mid]="#9cdfff"
 theme[cpu_end]="#416AAD"
 
