@@ -1,7 +1,6 @@
 # bluedotrb
 
-<img width="1921" height="1081" alt="preview" src="https://github.com/user-attachments/assets/cff0af60-ab97-4804-8c27-e329538970f7" />
-
+<img width="1917" height="1075" alt="preview" src="https://github.com/user-attachments/assets/424b1166-a204-41a7-be9e-9c1c41fc0675" />
 
 An Omarchy theme featuring Ruby language references in backgrounds (blue version of [dotrb](https://github.com/dotsilva/omarchy-dotrb-theme)).
 
