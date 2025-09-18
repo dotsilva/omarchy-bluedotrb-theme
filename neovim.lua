@@ -8,8 +8,8 @@ return {
             enable = true,
             simulate_only = true,
             severity = {
-              protan = 1, -- 1 = full protanopia, so...
-              deutan = 1,
+              protan = 0.5, -- 1 = full protanopia, so...
+              deutan = 0.6,
               tritan = 0,
             },
           },
