@@ -7,8 +7,8 @@ return {
           colorblind = {
             enable = true,
             severity = {
-              protan = 1, -- full protanopia
-              deutan = 1,
+              protan = 0, -- full protanopia
+              deutan = 0,
               tritan = 0,
             },
           },
