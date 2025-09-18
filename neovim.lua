@@ -6,7 +6,7 @@ return {
         options = {
           colorblind = {
             enable = true,
-            simulate_only = false,
+            simulate_only = true,
             severity = {
               protan = 1, -- 1 = full protanopia, so...
               deutan = 1,
