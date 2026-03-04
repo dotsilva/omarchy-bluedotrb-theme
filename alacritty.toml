@@ -10,11 +10,11 @@ foreground = "#f2f4f8"
 
 [colors.cursor]
 text = "#161616"
-cursor = "#f2f4f8"
+cursor = "#b4b4b4"
 
 [colors.selection]
 text = "#161616"
-background = "#f2f4f8"
+background = "#b4b4b4"
 
 [colors.normal]
 black = "#484848"
